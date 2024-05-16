@@ -1,1 +1,5 @@
-# Analisis-servicio-de-Taxi
+# Descripcion del Proyecto:
+
+En este proyecto, nos enfocamos en el análisis de datos de servicios de taxi en Chicago durante noviembre de 2017, abordando la actividad de las compañías de taxis y las tendencias de desplazamiento hacia distintos barrios. Antes de sumergirnos en el análisis exploratorio y las pruebas estadísticas, realizamos una etapa crucial de preparación de los datos, consistente en la verificación y eliminación de posibles duplicados y la identificación y manejo de datos nulos. Esta limpieza inicial asegura la integridad y fiabilidad de nuestro análisis posterior.
+
+Con tres conjuntos de datos en formato CSV a nuestra disposición, examinamos desde la frecuencia de viajes de las compañías de taxis hasta el promedio de viajes finalizados en diversos barrios, culminando en un estudio detallado sobre cómo las condiciones climáticas, particularmente los sábados lluviosos, pueden influir en la duración de los trayectos desde el Loop hasta el Aeropuerto Internacional O'Hare. A través de un minucioso análisis exploratorio, complementado por pruebas estadísticas como la prueba t de Student, nuestro objetivo es desentrañar las complejidades del transporte urbano en Chicago y el papel que juega el clima en la eficiencia del mismo.
